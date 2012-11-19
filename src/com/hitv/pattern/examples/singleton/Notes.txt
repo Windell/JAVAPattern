@@ -1,0 +1,7 @@
+单例模式是最常使用的设计模式,虽然简单但同时也要考虑多线程并发等问题.
+
+该包汇总了四种最典型的单例模式案例：
+最简单的单例模式：SimpleSingleton
+加锁同步控制的单例：SynchronizedSingleton
+急切单例模式：EagerlySingleton
+双检查单例：DoubleCheckSingleton

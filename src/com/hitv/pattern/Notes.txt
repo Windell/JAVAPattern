@@ -1,0 +1,9 @@
+设计模式的原则：
+	开闭原则(Open Closed Principal，OCP)
+	里氏代换原则（LSP）
+	依赖倒转原则（DIP）
+	接口隔离原则（ISP）
+	抽象类（Abstract Class）
+	接口(Interface)
+	
+http://baike.baidu.com/view/66964.htm

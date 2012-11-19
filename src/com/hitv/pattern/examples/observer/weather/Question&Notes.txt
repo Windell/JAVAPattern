@@ -1,0 +1,15 @@
+WeatherData为天气数据对象类,并包含measurementsChanged()方法使得天气数据变化时通知到另外三个类。
+
+该代码的问题在于当增加新的Display类需要对天气变化做出反应时，不得不修改WeatherData类
+因为各个Display对象是紧耦合在其类中的。
+
+forthdisplay包为观察者模式的实现
+jdkobserver包为使用JDK API实现观察者模式 Observable类和Observer接口
+
+观察者模式体现的OO设计原则
+封装变化
+多用组合，少用继承
+针对接口编程，不针对实现编程
+使得交互对象之间松耦合
+
+观察者模式在许多GUI框架中大量使用

@@ -1,0 +1,5 @@
+Flyweight（享元模式）：
+          运用共享技术有效地支持大量细粒度的对象。
+          
+通俗易懂的例子
+http://www.cnblogs.com/hegezhou_hot/archive/2010/12/12/1903728.html

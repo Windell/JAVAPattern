@@ -1,0 +1,14 @@
+simpleremote
+是一个简单的命令模式例子,可以看到封装的命令对象(*Command),具体的命令执行者对象(Light GarageDoor),请求者对象
+SimpleRemoteControl.以及创建并设定命令的Client RemoteControlTest
+
+remote
+拥有更丰富可执行命令对象的例子,可支持七种家电的On和Off操作.
+
+undo
+实现了简单的undo操作,Light对象undo即开变关,关变开.电扇速度的undo即为设置为所记录前一个速度.
+
+party
+重点在于MacroCommand,实现组命令操作,也充分体现了松耦合的扩展性益处.
+
+命令模式还适合于处理队列请求,日志请求(undo日志)
