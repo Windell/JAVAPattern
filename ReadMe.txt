@@ -1,5 +1,7 @@
 ********************************Read Me******************************************
-
+License @copyright
+All the contents are from Internet ,for study and communication . feel free to share and copy.
+  
 设计模式的基础理论化知识，问度娘：
 http://baike.baidu.com/view/66964.htm
 
@@ -14,6 +16,7 @@ http://baike.baidu.com/view/66964.htm
 1.来自于Internet
 2.来自于《Head First Design Patterns》
 3.来自于自我发挥
+4.DesignPatterns.docx 各设计模式UML类图，来自互联网
 
 学习感受：
 
